@@ -200,6 +200,4 @@ This project was developed for educational purposes as part of Kaggle's House Pr
 
 ---
 
-<p align="center">
-  <b>⭐ If you found this project helpful, please give it a star! ⭐</b>
-</p>
+
